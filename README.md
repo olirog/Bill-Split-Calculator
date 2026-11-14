@@ -1,1 +1,3 @@
+# Bill Split Calculator
+
 This program calculates the total bill including tip and divides it equally between multiple people. It asks the user to enter the bill amount, tip percentage, and number of people, then calculates how much each person should pay.
